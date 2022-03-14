@@ -7,5 +7,38 @@ body{
 main{
     padding: 50px 40px;
     background-color: antiquewhite;
-    margin: 40px 15px; 
+    max-width: 83rem;
+    margin: 40px auto;
+
 }
+
+#title h1 {
+    color: rgb(52, 41, 61);
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 100px;
+}
+
+#title p {
+    color: rgb(109, 85, 22);
+    margin-bottom: 60px;
+    font-style: italic;
+    padding-top: 0;
+    text-align: center;
+}
+
+#img-div{
+    text-align: center;
+}
+
+#img-div{
+    padding: 40px;
+    background-color:rgb(250, 240, 226);
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+#image{
+    min-width: 90%;
+}
+
